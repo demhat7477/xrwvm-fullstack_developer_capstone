@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Lokale Umgebungen
+server/djangoenv/
+djangoenv/
+node_modules/
+__pycache__/
+*.pyc
+cookies.txt
